@@ -30,6 +30,10 @@ header {
 	margin: 0 auto;
 }
 
+.leaderTable th {
+	text-align: center;
+}
+
 .leaderTable table {
 	text-align: center;
 	margin-left: auto;
