@@ -1,0 +1,4 @@
+# Home Run Tracker Web Application
+In this "Fantasy Baseball" style home run pool, 5 people pick teams of 6 players. At the end of the season the team that has the most total home runs wins.
+
+This web application utilizes Jsoup to scrape Home Run totals for Major League players. Prior to this program that stats were grabbed from each player's individual site, and put into an excel spreadsheet (who has time for that?). The player and team data is stored in the databse, with the use of Java, Spring MVC, JDBC/DAOs, and JSPs to generate the HTML, the information is grabbed for you with the click of a button giving you the stats as live as possible!
